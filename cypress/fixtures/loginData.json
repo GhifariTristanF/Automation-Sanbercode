@@ -1,0 +1,27 @@
+{
+  "baseUrl": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+
+  "validUser": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+
+  "invalidUser": {
+    "username": "TristanTesting",
+    "password": "WrongPassword123!"
+  },
+
+  "caseSensitiveUser": {
+    "username": "Admin",
+    "password": "ADMIN123"
+  },
+
+  "errorMessages": {
+    "invalidCredentials": "Invalid credentials",
+    "required": "Required"
+  },
+
+  "socialLinks": {
+    "linkedIn": "linkedin.com"
+  }
+}
