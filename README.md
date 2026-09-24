@@ -40,7 +40,7 @@ Automation-Sanbercode/
 │   │   │
 │   │   ├── pom/
 │   │   │   ├── login_pom.cy.js
-│   │   │   │   # Tugas 17 (10 TCs)
+│   │   │   │   # Tugas 17 
 │   │   │   ├── directory_pom.cy.js
 │   │   │   │   # Quiz 4
 │   │   │   └── recruitment_pom.cy.js
