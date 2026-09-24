@@ -31,41 +31,24 @@ Automation-Sanbercode/
 ├── cypress/
 │   ├── e2e/
 │   │   ├── api-test/
-│   │   │   └── categories.cy.js
-│   │   │       # Tugas 18
-│   │   │
-│   │   ├── intercept/
-│   │   │   └── orangehrm_login_intercept.cy.js
-│   │   │       # Tugas 16
-│   │   │
-│   │   ├── pom/
-│   │   │   ├── login_pom.cy.js
-│   │   │   │   # Tugas 17 
-│   │   │   ├── directory_pom.cy.js
-│   │   │   │   # Quiz 4
-│   │   │   └── recruitment_pom.cy.js
-│   │   │       # Quiz 4
-│   │   │
-│   │   └── login.cy.js
-│   │       # Quiz 3
+│   │   │   └── categories.cy.js                  # Tugas 18
+│   │   ├── login.cy.js                           # Quiz 3
+│   │   ├── login_intercept.cy.js                 # Tugas 16
+│   │   └── pom/
+│   │       ├── login_pom.cy.js                   # Tugas 17 
+│   │       ├── directory_pom.cy.js               # Quiz 4
+│   │       └── recruitment_pom.cy.js             # Quiz 4
 │   │
 │   ├── fixtures/
 │   │   ├── loginData.json
-│   │   │   # Test Data: Login Credentials & Messages
 │   │   ├── directoryData.json
-│   │   │   # Test Data: Directory Search Criteria
 │   │   └── recruitmentData.json
-│   │       # Test Data: Candidate & Vacancy Criteria
 │   │
 │   ├── pages/
 │   │   ├── LoginPage.js
-│   │   │   # POM Class: Login Locators & Actions
 │   │   ├── DashboardPage.js
-│   │   │   # POM Class: Dashboard Locators & Actions
 │   │   ├── DirectoryPage.js
-│   │   │   # POM Class: Directory Locators & Actions
 │   │   └── RecruitmentPage.js
-│   │       # POM Class: Recruitment Locators & Actions
 │   │
 │   └── support/
 │       ├── commands.js
