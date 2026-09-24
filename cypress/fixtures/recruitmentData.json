@@ -1,0 +1,19 @@
+{
+  "baseUrl": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+
+  "validUser": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+
+  "searchCriteria": {
+    "jobTitle": "Account Assistant",
+    "vacancy": "Junior Account Assistant"
+  },
+
+  "newCandidate": {
+    "firstName": "Tristan",
+    "lastName": "AutomationQA",
+    "email": "tristan.qa.test@example.com"
+  }
+}

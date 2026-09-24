@@ -1,0 +1,14 @@
+{
+  "baseUrl": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+
+  "validUser": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+
+  "searchCriteria": {
+    "jobTitle": "Account Assistant",
+    "location": "Texas R&D",
+    "nonExistingName": "XyzUnregisteredName12345"
+  }
+}
